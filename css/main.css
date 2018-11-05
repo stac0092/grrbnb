@@ -56,8 +56,9 @@ html {
     input {
         display: flex;
         flex-direction: row;
-        height: 25px;
+        height: 30px;
         width: 200px;
+        font-size: 20px;;
     }
 
     div:first-of-type {
@@ -131,8 +132,9 @@ html {
     input {
         display: flex;
         flex-direction: row;
-        height: 25px;
+        height: 30px;
         width: 200px;
+        font-size: 20px;;
     }
     
     form {
@@ -215,6 +217,7 @@ html {
 
     input {
         padding: 10px;
+        font-size: 20px;;
 
 
     }
